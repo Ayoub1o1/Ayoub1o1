@@ -11,7 +11,7 @@ Developer dev = new Developer(name);
 
 while(dev.isCoding())
 {
-  dev.drinkcoffe();
+  dev.drinkCoffe();
 }
 ```
 
