@@ -4,6 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayoub+Achaaoui!;" />
 </h1>
 
+```js
+const name = 'Ayoub';
+
+Developer dev = new Developer(name);
+
+while(dev.isCoding())
+{
+  dev.drinkcoffe();
+}
+```
+
 <h3 align="center">A passionate software developer from morocco </h3>
 
 <br/>
